@@ -54,11 +54,7 @@
       <p>Welcome to my links 👇</p>
     </div>
 
-    <!-- Ganti link di bawah sesuai kebutuhan -->
-    <a href="https://chat.whatsapp.com/CwGoTG2RhPC2T99b45IjZY" target="_blank">💬 WhatsApp Group</a>
-    <a href="https://www.instagram.com" target="_blank">📸 Instagram</a>
-    <a href="https://www.youtube.com" target="_blank">▶️ YouTube</a>
-    <a href="https://t.me" target="_blank">📲 Telegram</a>
+    <a href="https://chat.whatsapp.com/CwGoTG2RhPC2T99b45IjZY?mode=ac_t" target="_blank">💬 WhatsApp Group</a>
   </div>
 </body>
 </html>
